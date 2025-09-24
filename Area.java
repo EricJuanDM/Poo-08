@@ -7,7 +7,7 @@ public class Area {
         return lado * lado;
     }
     
-    public float arae(float base, float altura){
+    public float area(float base, float altura){
         return base * altura;
     }
 
